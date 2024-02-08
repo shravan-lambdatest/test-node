@@ -1,0 +1,12 @@
+[credential]
+	helper = store
+[credential "https://github.com"]
+	username = pulkit-chhabra
+	token = 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
+[url "https://"]
+	insteadOf = ssh://
+[user]
+	email = himanshuagrawal@lambdatest.com
+	name = Himanshu
+[color]
+	ui = auto
